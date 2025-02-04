@@ -46,3 +46,13 @@ Solved 3 questions of assignment on Object-Oriented programming (Java) on 31-01-
 - Access Modifiers Level 1<br>
 Solved 13 questions of assignment on Object-Oriented programming-Java Constructors, Instance vs. Class Variables, Access Modifiers on 01-02-2025 and pushed on branch "features_01-02-2025".<br>
 <br>
+
+~date- 4-02-2025<br>
+<br>
+Submission of this, static, final key words and instanceof operator Level 1 Lab Practice <br>
+-this<br>
+- static<br>
+- final<br>
+- instanceof operator<br>
+
+Total 7 questions were there stored in features_04-02-2025 branch.
