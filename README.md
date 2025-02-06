@@ -53,5 +53,19 @@ Submission of this, static, final key words and instanceof operator Level 1 Lab 
 - static<br>
 - final<br>
 - instanceof operator<br>
+Total 7 questions were there stored in features_04-02-2025 branch.<br>
+<br>
 
-Total 7 questions were there stored in features_04-02-2025 branch.
+~date - 5-02-2025<br>
+<br>
+<br>
+
+
+~date - 6-02-2025<br>
+Today review was done, two coding questions -<br>
+1)find longest word in the string<br>
+2)method overriding<br>
+plus some viva questions were taken . The coding questions are stored in features_6-02-2025 branch.
+
+
+
