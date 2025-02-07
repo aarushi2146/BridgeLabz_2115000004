@@ -1,9 +1,9 @@
-~DATE- 4-02-2025<br>
-<br>
-Submission of this, static, final key words and instanceof operator Level 1 Lab Practice <br>
--this<br>
-- static<br>
-- final<br>
-- instanceof operator<br>
-
-Total 7 questions were there stored in features_04-02-2025 branch.
+## 8. **📝 Keywords and Operators: `this`, `static`, `final`, `instanceof`** <br> 
+**📅 Date:** 04-02-2025 <br> 
+**📝 Assignment:** Static, Final, and `instanceof` Operator Practices<br>  
+**📚 Topics Covered:**  <br>
+- `this` Keyword 👤  <br>
+- `static` Keyword 📌 <br> 
+- `final` Keyword 🏁  <br>
+- `instanceof` Operator 🔍  <br>
+**✅ Details:** Solved 7 questions and pushed to branch `features_04-02-2025`.<br><br>
