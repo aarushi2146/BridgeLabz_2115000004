@@ -1,12 +1,12 @@
-~DATE - 07-02-2025<br>
-- Inheritance<br>
-- Single Level Inheritance<br>
-- Multilevel Inheritance<br>
-- Hierarchical Inheritance<br>
-- Key Features of Inheritance<br>
-- Method Overriding<br>
-- Constructor Inheritance in Java<br>
-- Polymorphism and Inheritance<br>
- - Access Modifiers and Inheritance<br>
- Total 8 questions , stored in features_7-02-2025 branch<br>
- <br>
+## 11. **🔁 Inheritance Concepts**  <br>
+**📅 Date:** 07-02-2025  <br>
+**📝 Assignment:** Inheritance Practices  <br>
+**📚 Topics Covered:** <br> 
+- Single-Level Inheritance 👪  <br>
+- Multilevel Inheritance ↕️  <br>
+- Hierarchical Inheritance 🌳  <br>
+- Method Overriding 🔄  <br>
+- Constructor Inheritance 🏗️  <br>
+- Polymorphism and Inheritance 🔄 <br> 
+- Access Modifiers in Inheritance 🔐  <br>
+**✅ Details:** 8 questions solved and pushed to branch `features_07-02-2025`.<br><br>
