@@ -1,106 +1,132 @@
-#git nit<br>
-~ date-22-01-2025-<br>
-Submission of Programming Elements Practices.<br>
-1. Java Comments<br>
-2. Java Basic Data Types<br>
-3. Java Variables<br>
-4. Arithmetic <br>
-5. Operator Precedence<br>
-6. Type Conversion<br>
-7. Taking User Input in Programs<br>
-assignment 2 completed yesterday(22 jan 2025) with 28 questions<br>
-<br>
+# 📚 Java Programming Practice Log<br>
 
-~ date-23-01-2025<br>
-ubmission on Control Flow Practices<br>
-assignment 3 completed today (23 jan 2025) with 36 questions of level1, level2, level3<br>
-<br>
+This repository documents the progress and submissions of various Java programming practices. Below is a detailed timeline of the work completed:<br><br>
 
-~ date -25-01-2025<br>
-Submissions on Arrays Practices<br>
-assignment 4 completed today(25 jan 2025) with 20 questions of level1 and level2 on arrays.<br>
-<br>
+---<br>
 
+## 1. **💻 Java Comments and Basic Concepts**  <br>
+**📅 Date:** 22-01-2025  <br>
+**📝 Assignment:** Programming Elements Practices  <br>
+**📚 Topics Covered:**  <br>
+- Java Comments ✏️  <br>
+- Java Basic Data Types 🔢  <br>
+- Java Variables 🏷️<br>  
+- Arithmetic Operations ➗ <br> 
+- Operator Precedence ⚖️  <br>
+- Type Conversion 🔄  <br>
+- Taking User Input 🧑‍💻  <br>
+**✅ Details:** Assignment 2 completed with 28 questions.****<br><br>
 
-~ date -28-01-2025<br>
-Submissions on Java Methods Practices<br>
-assigment on java methods is completed on 28 jan 2025 with 37 questions of level1, level2, level3 on pushed on branch "features_28-01-2025".<br>
-<br>
+---<br>
 
-~ date-29-01-2025<br>
-The outcome is the usage of Strings
-Handling strings and common string functions
-Functions and function parameter passing, return the value of function.<br>
-Solved 12 questions of assignment on Strings on 29-01-2025 and pushed on branch "features_29-01-2025".<br>
-Solved 13 questions of level1 and level2 of assignment on Strings on 29-01-2025 and pushed on branch "features_29-01-2025".<br>
-<br>
+## 2. **🔄 Control Flow** <br> 
+**📅 Date:** 23-01-2025  <br>
+**📝 Assignment:** Control Flow Practices  <br>
+**📚 Topics Covered:**  <br>
+- Control Flow Statements ⏩  <br>
+**✅ Details:** Assignment 3 completed with 36 questions, covering Level 1, Level 2, and Level 3.<br><br>
 
-~ date - 30-01-2025<br>
-Submission of Java Class and Object<br>
-Solved 3 questions of assignment on Object-Oriented programming (Java) on 31-01-2025 and pushed on branch "features_31-01-2025".<br>
-<br>
+---<br>
 
-~ date - 1-02-2025<br>
--Java Constructors<br>
-- Instance vs. Class Variables<br>
-- Access Modifiers Level 1<br>
-Solved 13 questions of assignment on Object-Oriented programming-Java Constructors, Instance vs. Class Variables, Access Modifiers on 01-02-2025 and pushed on branch "features_01-02-2025".<br>
-<br>
+## 3. **🔢 Arrays**  <br>
+**📅 Date:** 25-01-2025 <br> 
+**📝 Assignment:** Arrays Practices <br> 
+**📚 Topics Covered:**  <br>
+- Arrays and Basic Array Operations 🗃️ <br> 
+**✅ Details:** Assignment 4 completed with 20 questions of Level 1 and Level 2.<br>
 
-~date- 4-02-2025<br>
-Submission of this, static, final key words and instanceof operator Level 1 Lab Practice <br>
--this<br>
-- static<br>
-- final<br>
-- instanceof operator<br>
-Total 7 questions were there stored in features_04-02-2025 branch.<br>
-<br>
+---
 
-~date - 5-02-2025<br>
-Submission of Object Oriented Design Principles <br>
-Object Oriented Design Principles<br>
-- Class Diagram<br>
-- Object Diagrams<br>
-- Sequence Diagrams<br>
-There are total of 2 questions on level1 in which we have to draw diagram(class, sequence, etc)<br>
-There are total 8 questions in level 2 stored in features_5-02-2025 branch.
-<br>
-<br>
+## 4. **🔧 Java Methods**  <br>
+**📅 Date:** 28-01-2025  ****<br>
+**📝 Assignment:** Java Methods Practices  <br>
+**📚 Topics Covered:**  <br>
+- Functions and Parameter Passing 🔄  <br>
+- Return Values ↩️  <br>
+**✅ Details:** Assignment completed with 37 questions across Level 1, Level 2, and Level 3. Pushed to branch `features_28-01-2025`.<br><br>
 
+---<br>
 
-~date - 6-02-2025<br>
-Today review was done, two coding questions -<br>
-1)find longest word in the string<br>
-2)method overriding<br>
-plus some viva questions were taken . The coding questions are stored in features_6-02-2025 branch.<br>
-<br>
+## 5. **🔠 Strings Handling**  <br>
+**📅 Date:** 29-01-2025  <br>
+**📝 Assignment:** String Manipulation and Functions<br>
+**📚 Topics Covered:**  <br>
+- Common String Functions 🔗  <br>
+- String Handling ✨  <br>
+**✅ Details:** 12 questions solved and pushed to branch `features_29-01-2025`. Additionally, 13 more questions (Level 1 and Level 2) were completed.<br><br>
 
-~DATE - 07-02-2025<br>
-- Inheritance<br>
-- Single Level Inheritance<br>
-- Multilevel Inheritance<br>
-- Hierarchical Inheritance<br>
-- Key Features of Inheritance<br>
-- Method Overriding<br>
-- Constructor Inheritance in Java<br>
-- Polymorphism and Inheritance<br>
- - Access Modifiers and Inheritance<br>
- Total 8 questions , stored in features_7-02-2025 branch<br>
- <br>
+---<br>
 
+## 6. **🧩 Object-Oriented Programming: Java Classes and Objects**  <br>
+**📅 Date:** 30-01-2025  <br>
+**📝 Assignment:** Java Class and Object Practices <br> 
+**📚 Topics Covered:** <br> 
+- Classes and Objects in Java 🏠 <br> 
+**✅ Details:** Solved 3 questions on Object-Oriented programming. Pushed to branch `features_31-01-2025`.<br><br>
+
+---<br>
+
+## 7. **🏗️ Java Constructors, Instance vs. Class Variables, Access Modifiers**  <br>
+**📅 Date:** 01-02-2025  <br>
+**📝 Assignment:** Java Object-Oriented Concepts  <br>
+**📚 Topics Covered:**  <br>
+- Constructors 🛠️  <br>
+- Instance vs. Class Variables 🔑  <br>
+- Access Modifiers (Level 1) 🔒  <br>
+**✅ Details:** 13 questions solved and pushed to branch `features_01-02-2025`.<br><br>
+
+---<br>
+
+## 8. **📝 Keywords and Operators: `this`, `static`, `final`, `instanceof`** <br> 
+**📅 Date:** 04-02-2025 <br> 
+**📝 Assignment:** Static, Final, and `instanceof` Operator Practices<br>  
+**📚 Topics Covered:**  <br>
+- `this` Keyword 👤  <br>
+- `static` Keyword 📌 <br> 
+- `final` Keyword 🏁  <br>
+- `instanceof` Operator 🔍  <br>
+**✅ Details:** Solved 7 questions and pushed to branch `features_04-02-2025`.<br><br>
+
+---<br>
+
+## 9. **⚙️ Object-Oriented Design Principles**  <br>
+**📅 Date:** 05-02-2025  <br>
+**📝 Assignment:** Object-Oriented Design Principles  <br>
+**📚 Topics Covered:**  <br>
+- Class Diagrams 📊  <br>
+- Object Diagrams 🧩  <br>
+- Sequence Diagrams 🔄  <br>
+**✅ Details:** 2 Level 1 diagram-based questions and 8 Level 2 questions solved. Pushed to branch `features_05-02-2025`.<br><br>
+
+---<br>
+
+## 10. **🔍 Coding Review and Viva**  <br>
+**📅 Date:** 06-02-2025  <br>
+**📝 Review Topics:**  <br>
+- Longest Word in a String 🔠  <br>
+- Method Overriding 🔄 <br> 
+**✅ Details:** Completed coding questions and a few viva questions. Pushed to branch `features_06-02-2025`.<br><br>
+
+---<br>
 
 ## 11. **🔁 Inheritance Concepts**  <br>
-**📅 Date:** 07-02-2025 <br> 
+**📅 Date:** 07-02-2025  <br>
 **📝 Assignment:** Inheritance Practices  <br>
-**📚 Topics Covered:**  <br>
-- Single-Level Inheritance 👪<br>
-- Multilevel Inheritance ↕️ <br> 
-- Hierarchical Inheritance 🌳<br>  
+**📚 Topics Covered:** <br> 
+- Single-Level Inheritance 👪  <br>
+- Multilevel Inheritance ↕️  <br>
+- Hierarchical Inheritance 🌳  <br>
 - Method Overriding 🔄  <br>
 - Constructor Inheritance 🏗️  <br>
-- Polymorphism and Inheritance 🔄  <br>
+- Polymorphism and Inheritance 🔄 <br> 
 - Access Modifiers in Inheritance 🔐  <br>
-**✅ Details:** 8 questions solved and pushed to branch `features_07-02-2025`.<br>
+**✅ Details:** 8 questions solved and pushed to branch `features_07-02-2025`.<br><br>
+
+---<br>
+
+This log provides an overview of all completed assignments and coding practices. For each assignment, the corresponding branches are mentioned where the solutions are stored.
+
+
 <br>
 
 
