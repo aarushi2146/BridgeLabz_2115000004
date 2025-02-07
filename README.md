@@ -15,7 +15,7 @@ This repository documents the progress and submissions of various Java programmi
 - Operator Precedence ⚖️  <br>
 - Type Conversion 🔄  <br>
 - Taking User Input 🧑‍💻  <br>
-**✅ Details:** Assignment 2 completed with 28 questions.****<br><br>
+**✅ Details:** Assignment 2 completed with 28 questions. Stored in features_22-01-2025 branch****<br><br>
 
 ---<br>
 
