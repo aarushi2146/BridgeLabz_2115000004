@@ -1,10 +1,8 @@
-~date - 5-02-2025<br>
-Submission of Object Oriented Design Principles <br>
-Object Oriented Design Principles<br>
-- Class Diagram<br>
-- Object Diagrams<br>
-- Sequence Diagrams<br>
-There are total of 2 questions on level1 in which we have to draw diagram(class, sequence, etc)<br>
-There are total 8 questions in level 2 stored in features_5-02-2025 branch.
-<br>
-<br>
+## 9. **⚙️ Object-Oriented Design Principles**  <br>
+**📅 Date:** 05-02-2025  <br>
+**📝 Assignment:** Object-Oriented Design Principles  <br>
+**📚 Topics Covered:**  <br>
+- Class Diagrams 📊  <br>
+- Object Diagrams 🧩  <br>
+- Sequence Diagrams 🔄  <br>
+**✅ Details:** 2 Level 1 diagram-based questions and 8 Level 2 questions solved. Pushed to branch `features_05-02-2025`.<br><br>
