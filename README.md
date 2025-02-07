@@ -1,3 +1,8 @@
-DATE - 1-02-2025
-<br>
-Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice completed
+## 7. **🏗️ Java Constructors, Instance vs. Class Variables, Access Modifiers**  <br>
+**📅 Date:** 01-02-2025  <br>
+**📝 Assignment:** Java Object-Oriented Concepts  <br>
+**📚 Topics Covered:**  <br>
+- Constructors 🛠️  <br>
+- Instance vs. Class Variables 🔑  <br>
+- Access Modifiers (Level 1) 🔒  <br>
+**✅ Details:** 13 questions solved and pushed to branch `features_01-02-2025`.<br><br>
