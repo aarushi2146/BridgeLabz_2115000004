@@ -139,6 +139,7 @@ These are stored in the branch: features_10-02-2025 🌿<br><br>
 
 ---<br>
 
+
 This log provides an overview of all completed assignments and coding practices. For each assignment, the corresponding branches are mentioned where the solutions are stored.
 
 
