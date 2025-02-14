@@ -124,7 +124,7 @@ This repository documents the progress and submissions of various Java programmi
 
 ---<br>
 
-##12.**🔁Encapsulation Concept**<br>
+## 12. **🔄 Encapsulation concept** <br> 
 📅 Date: 10-02-2025<br>
 📝 Submission Details:<br>
 The submission includes the following concepts:<br>
@@ -141,7 +141,7 @@ These are stored in the branch: features_10-02-2025 🌿<br><br>
 
 
 
-##13.**🔁LinkedList Concept**<br>
+## 13. **🔄 Linkedlist concept** <br> 
 📅 Date: 11-02-2025<br>
 📝 Submission Details:<br> 
 The submission includes the following concepts:<br>
@@ -154,7 +154,7 @@ These are stored in the branch: features_11-2-2025 🌿<br><br>
 
 ---<br>
 
-##14.**🔁Stack and Queues Concept**<br>
+## 2. **🔄 Stack and Queue Concept** <br> 
 📅 Date: 13-02-2025<br>
 📝 Submission Details:<br> 
 The submission includes the following concepts:<br>
