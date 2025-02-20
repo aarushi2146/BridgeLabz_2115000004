@@ -27,7 +27,8 @@
 4. Buffered Streams🔄  <br>
 5. Reader and Writer📝<br>
 - Key Considerations🔢  <br>
-- Best Practices🏷️<br> 
+- Best Practices🏷️<br>
+- pp17 contains its coding questions<br>
 **✅ Details:** Assignment is completed with 10 questions. Stored in features_20-02-2025 branch****<br><br>
 
 ---<br>
