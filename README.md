@@ -279,7 +279,6 @@ throw statement📝<br>
 -Creating Custom Exceptions🧑‍💻  <br>
 -Extending Exception Class🧑‍💻  <br>
 -Defining Constructors🧑‍💻  <br>
-- Arrays and Basic Array Operations 🗃️ <br> 
 **✅ Details:** Assignment ia completed with 10 questions and stored  in branch **features_21-02-2025**.<br><br>
 
 ---<br>
