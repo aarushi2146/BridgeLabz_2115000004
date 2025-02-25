@@ -1,0 +1,6 @@
+ID,Name,Department,Salary,Email,Phone
+1,Amit Sharma,Finance,80000,amit.sharma@example.com,1234567890
+2,Priya Gupta,HR,75000,invalid-email,987654321
+3,Ravi Kumar,IT,90000,ravi.kumar@domain.com,1234567890
+4,Neha Patel,Marketing,65000,neha.patel@domain,1112223333
+4,Neha Patel,Marketing,65000,neha.patel@domain,1112223333

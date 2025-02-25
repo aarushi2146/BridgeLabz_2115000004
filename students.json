@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav",
+    "department": "CSE",
+    "score": 88
+  },
+  {
+    "id": 2,
+    "name": "Ishita",
+    "department": "IT",
+    "score": 92
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "department": "ECE",
+    "score": 75
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "department": "CSE",
+    "score": 84
+  }
+]
